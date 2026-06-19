@@ -1,0 +1,98 @@
+[
+  {
+    "status": "CVPR 2026", "status_colors": "bg-teal-100 text-teal-800", "year": "2026",
+    "title": "Paper Title One: A Descriptive Subtitle About the Contribution",
+    "authors": "Your Name, Co-Author One, Co-Author Two, Senior Author",
+    "conference": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "thumbnail": "media/paper1.png",
+    "paper_link": "https://arxiv.org/abs/0000.00000",
+    "project_link": "https://example.com/project-one",
+    "github_link": "https://github.com/your-handle/project-one",
+    "description": "Paste your abstract here. It appears when the reader clicks the Abstract button and can be as long as you like — the card expands to fit the full text.",
+    "tags": ["Computer Vision", "Deep Learning"]
+  },
+  {
+    "status": "NeurIPS 2025", "status_colors": "bg-emerald-100 text-emerald-800", "year": "2025",
+    "title": "Paper Title Two: Another Strong Result",
+    "authors": "Co-Author One, Your Name, Senior Author",
+    "conference": "Advances in Neural Information Processing Systems (NeurIPS)",
+    "thumbnail": "media/paper2.png",
+    "paper_link": "media/pdf/paper2.pdf",
+    "project_link": null,
+    "github_link": "https://github.com/your-handle/project-two",
+    "description": "Abstract for the second publication.",
+    "tags": ["Machine Learning", "NLP"]
+  },
+  {
+    "status": "ACL 2025", "status_colors": "bg-teal-100 text-teal-800", "year": "2025",
+    "title": "Paper Title Three: A Method and Its Evaluation",
+    "authors": "Your Name, Senior Author",
+    "conference": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "thumbnail": "media/paper3.png",
+    "paper_link": "https://arxiv.org/abs/0000.00001",
+    "project_link": "https://example.com/project-three",
+    "github_link": null,
+    "description": "Abstract for the third publication.",
+    "tags": ["NLP", "Multimodal"]
+  },
+  {
+    "status": "Workshop 2024", "status_colors": "bg-amber-100 text-amber-800", "year": "2024",
+    "title": "Paper Title Four: An Early-Stage Idea",
+    "authors": "Your Name, Co-Author One",
+    "conference": "Workshop on Your Topic, co-located with a major venue",
+    "thumbnail": "media/paper1.png",
+    "paper_link": "media/pdf/paper4.pdf",
+    "project_link": null,
+    "github_link": "https://github.com/your-handle/project-four",
+    "description": "Abstract for the fourth publication.",
+    "tags": ["Computer Vision"]
+  },
+  {
+    "status": "Journal 2024", "status_colors": "bg-emerald-100 text-emerald-800", "year": "2024",
+    "title": "Paper Title Five: A Survey of the Field",
+    "authors": "Your Name, Co-Author One, Co-Author Two, Senior Author",
+    "conference": "ACM/IEEE Transactions on Your Field",
+    "thumbnail": "media/paper2.png",
+    "paper_link": "media/pdf/paper5.pdf",
+    "project_link": null,
+    "github_link": "https://github.com/your-handle/survey",
+    "description": "Abstract for the fifth publication.",
+    "tags": ["Survey", "Machine Learning"]
+  },
+  {
+    "status": "Under Review", "status_colors": "bg-stone-200 text-stone-700", "year": "2026",
+    "title": "Paper Title Six: Work Currently Under Review",
+    "authors": "Your Name, Senior Author",
+    "conference": "Under Review",
+    "thumbnail": "media/paper3.png",
+    "paper_link": null,
+    "project_link": null,
+    "github_link": null,
+    "description": "When paper_link, project_link, and github_link are all null, only the Abstract button shows and the paper button appears disabled — a clean way to list in-progress work.",
+    "tags": ["Health AI"]
+  },
+  {
+    "status": "Conference 2022", "status_colors": "bg-stone-200 text-stone-700", "year": "2022",
+    "title": "Paper Title Seven: An Earlier Conference Paper",
+    "authors": "Your Name, Co-Author One",
+    "conference": "International Conference on Your Topic",
+    "thumbnail": "media/paper1.png",
+    "paper_link": "media/pdf/paper7.pdf",
+    "project_link": null,
+    "github_link": null,
+    "description": "Abstract for the seventh publication.",
+    "tags": ["Signal Processing"]
+  },
+  {
+    "status": "Conference 2021", "status_colors": "bg-stone-200 text-stone-700", "year": "2021",
+    "title": "Paper Title Eight: Your First Publication",
+    "authors": "Co-Author One, Your Name, Senior Author",
+    "conference": "International Conference on Your Topic",
+    "thumbnail": "media/paper2.png",
+    "paper_link": "media/pdf/paper8.pdf",
+    "project_link": null,
+    "github_link": null,
+    "description": "Abstract for the eighth publication.",
+    "tags": ["Computer Vision"]
+  }
+]

@@ -1,0 +1,6 @@
+[
+  { "name": "Research Area One",   "description": "One or two sentences on this focus area and why it matters to your broader agenda.", "image": "media/research1.jpg" },
+  { "name": "Research Area Two",   "description": "Description of your second main research direction.", "image": "media/research2.jpg" },
+  { "name": "Research Area Three", "description": "Description of your third main research direction.", "image": "media/research3.jpg" },
+  { "name": "Research Area Four",  "description": "Description of your fourth main research direction.", "image": "media/research4.jpg" }
+]

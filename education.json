@@ -1,0 +1,28 @@
+[
+  {
+    "degree": "PhD in Computer Science",
+    "institution": "Your University",
+    "logo": "media/university1_logo.png",
+    "period": "2023 - Present",
+    "location": "City, Country",
+    "details": [
+      "Graduate Research Assistant in the Your Lab.",
+      "Thesis: Your thesis topic goes here."
+    ],
+    "courses": ["Machine Learning", "Computer Vision"],
+    "course_colors": "bg-teal-50 text-teal-800 border border-teal-200"
+  },
+  {
+    "degree": "B.S. in Your Major",
+    "institution": "Your Undergraduate University",
+    "logo": "media/university2_logo.png",
+    "period": "2016 - 2021",
+    "location": "City, Country",
+    "details": [
+      "Specialization: Your specialization.",
+      "Thesis: Your undergraduate thesis title."
+    ],
+    "courses": ["Digital Signal Processing", "Deep Learning"],
+    "course_colors": "bg-amber-50 text-amber-800 border border-amber-200"
+  }
+]

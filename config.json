@@ -1,0 +1,17 @@
+{
+  "profilePictureSize": 240,
+  "newsPerPage": 5,
+  "publicationsPerPage": 5,
+  "fontSizes": {
+    "publicationTitle": "1.15rem",
+    "publicationMeta": "0.78rem",
+    "publicationTags": "0.7rem",
+    "publicationButtons": "0.78rem",
+    "abstractTitle": "1rem",
+    "abstractBody": "0.9rem"
+  },
+  "newsHighlights": {
+    "NeurIPS 2025": { "color": "#0f5d55", "background": "#eaf4f1" },
+    "CVPR 2026":    { "color": "#a8631a", "background": "#faf3e9" }
+  }
+}

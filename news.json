@@ -1,0 +1,11 @@
+[
+  { "date": "May 2026", "title": "I've joined Company X as a Research Intern for summer 2026.", "link": "#" },
+  { "date": "Apr 2026", "title": "Our paper 'Paper Title One' has been accepted at CVPR 2026.", "link": "#" },
+  { "date": "Feb 2026", "title": "Gave an invited talk on my research at the Your Seminar Series.", "link": "#" },
+  { "date": "Dec 2025", "title": "Awarded the Departmental Research Excellence Fellowship.", "link": "#" },
+  { "date": "Sep 2025", "title": "Our work 'Paper Title Two' has been accepted at NeurIPS 2025.", "link": "#" },
+  { "date": "Jun 2025", "title": "Started a research internship at Company Y.", "link": "#" },
+  { "date": "Mar 2025", "title": "Passed my PhD candidacy / qualifying examination.", "link": "#" },
+  { "date": "Nov 2024", "title": "Presented a poster at the Regional ML Symposium.", "link": "#" },
+  { "date": "Aug 2023", "title": "Began my PhD in Computer Science at Your University.", "link": "#" }
+]

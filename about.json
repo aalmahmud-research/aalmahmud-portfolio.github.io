@@ -1,0 +1,21 @@
+{
+    "name": "Your Name",
+    "title": "PhD Student, Computer Science",
+    "profile_picture": "media/profile.jpg",
+    "skills": [
+        { "name": "Machine Learning", "colors": "bg-teal-50 text-teal-800 border border-teal-200" },
+        { "name": "Computer Vision", "colors": "bg-emerald-50 text-emerald-800 border border-emerald-200" },
+        { "name": "Natural Language Processing", "colors": "bg-amber-50 text-amber-800 border border-amber-200" }
+    ],
+    "advisor_name": "Prof. Advisor Name",
+    "advisor_link": "https://example.com/advisor",
+    "bio": "I am a PhD student in the Department of Computer Science at Your University, where I work in the Your Lab with Prof. Advisor Name. My research sits at the intersection of machine learning and its real-world applications. Before my PhD I spent two years building production ML systems in industry. Replace this paragraph with your own bio — if you write your advisor's name exactly as it appears in 'advisor_name' below, it becomes a clickable link automatically.",
+    "location": "Your University, City, Country",
+    "email": "your.email@example.com",
+    "cv_link": "media/pdf/CV.pdf",
+    "social_links": {
+        "linkedin": "https://www.linkedin.com/in/your-handle",
+        "google_scholar": "https://scholar.google.com/citations?user=YOUR_ID",
+        "github": "https://github.com/your-handle"
+    }
+}

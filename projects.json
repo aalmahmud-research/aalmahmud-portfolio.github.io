@@ -1,0 +1,8 @@
+[
+  { "name": "Project One",   "image": "media/project1.gif", "stacks": ["PyTorch", "OpenCV", "Django"], "github_link": "https://github.com/your-handle/project1", "details_page": "https://example.com/project1" },
+  { "name": "Project Two",   "image": "media/project2.png", "stacks": ["TensorFlow", "Flask"],        "github_link": "https://github.com/your-handle/project2", "details_page": "" },
+  { "name": "Project Three", "image": "media/project3.png", "stacks": ["RASA", "gTTS"],              "github_link": "",                                        "details_page": "https://example.com/project3" },
+  { "name": "Project Four",  "image": "media/project1.gif", "stacks": ["JAX", "NumPy"],             "github_link": "https://github.com/your-handle/project4", "details_page": "https://example.com/project4" },
+  { "name": "Project Five",  "image": "media/project2.png", "stacks": ["React", "FastAPI"],         "github_link": "https://github.com/your-handle/project5", "details_page": "" },
+  { "name": "Project Six",   "image": "media/project3.png", "stacks": ["C++", "ROS"],               "github_link": "",                                        "details_page": "https://example.com/project6" }
+]

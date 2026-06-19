@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Research Intern",
+    "company": "Company X",
+    "logo": "media/companyx_logo.png",
+    "period": "May 2026 - Aug 2026",
+    "location": "City, State",
+    "details": [
+      "First key responsibility or accomplishment.",
+      "Second key responsibility or accomplishment.",
+      "Third key responsibility or accomplishment."
+    ],
+    "skills": ["Skill A", "Skill B"]
+  },
+  {
+    "title": "Graduate Research Assistant",
+    "company": "Your University",
+    "logo": "media/university1_logo.png",
+    "period": "2023 - Present",
+    "location": "City, Country",
+    "details": [
+      "Research highlight one.",
+      "Research highlight two.",
+      "Research highlight three."
+    ],
+    "skills": ["Research Area", "NLP", "Computer Vision"]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Previous Employer",
+    "logo": "media/employer_logo.png",
+    "period": "Oct 2021 - Aug 2023",
+    "location": "City, Country",
+    "details": [
+      "Built and shipped an ML solution with measurable business impact.",
+      "Another notable engineering accomplishment.",
+      "A third highlight."
+    ],
+    "skills": ["Computer Vision", "MLOps"]
+  }
+]
